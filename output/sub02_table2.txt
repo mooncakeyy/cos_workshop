@@ -1,0 +1,411 @@
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Picture	fixation	other				401797	1	4166	1	0	4000
+Picture	green_left	hit	2	5332	1	405964	1	5500	1	4000	resp
+Picture	jitter	other				421962	1	6166	1	0	50000
+Picture	fixation	other				428128	1	4166	1	0	4000
+Picture	green_right	hit	2	4442	1	432295	1	4500	1	4000	resp
+Picture	jitter	other				448293	1	8166	1	0	50000
+Picture	fixation	other				456459	1	4166	1	0	4000
+Picture	red_left	hit	1	3389	1	460625	1	3500	1	4000	resp
+Picture	jitter	other				476624	1	3166	1	0	50000
+Picture	fixation	other				479791	1	4166	1	0	4000
+Picture	green_left	hit	2	4538	1	483957	1	4666	1	4000	resp
+Picture	jitter	other				499955	1	9166	1	0	50000
+Picture	fixation	other				509121	1	4166	1	0	4000
+Picture	red_left	hit	1	4246	1	513287	1	4333	1	4000	resp
+Picture	jitter	other				529286	1	8166	1	0	50000
+Picture	fixation	other				537452	1	4166	1	0	4000
+Picture	red_right	hit	1	5594	1	541618	1	5666	1	4000	resp
+Picture	jitter	other				557617	1	2166	1	0	50000
+Picture	fixation	other				559783	1	4166	1	0	4000
+Picture	red_left	hit	1	4143	1	563950	1	4166	1	4000	resp
+Picture	jitter	other				579948	1	3166	1	0	50000
+Picture	fixation	other				583115	1	4166	1	0	4000
+Picture	green_left	hit	2	4331	1	587281	1	4500	1	4000	resp
+Picture	jitter	other				603280	1	5166	1	0	50000
+Picture	fixation	other				608446	1	4166	1	0	4000
+Picture	red_right	hit	1	3880	1	612612	1	4000	1	4000	resp
+Picture	jitter	other				628611	1	5166	1	0	50000
+Picture	fixation	other				633777	1	4166	1	0	4000
+Picture	green_right	hit	2	3829	1	637943	1	4000	1	4000	resp
+Picture	jitter	other				653942	1	4166	1	0	50000
+Picture	fixation	other				658108	1	4166	1	0	4000
+Picture	green_right	hit	2	4616	1	662274	1	4666	1	4000	resp
+Picture	jitter	other				678273	1	6166	1	0	50000
+Picture	fixation	other				684439	1	4166	1	0	4000
+Picture	red_left	hit	1	4204	1	688605	1	4333	1	4000	resp
+Picture	jitter	other				704604	1	4166	1	0	50000
+Picture	fixation	other				708770	1	4166	1	0	4000
+Picture	red_right	hit	1	4593	1	712936	1	4666	1	4000	resp
+Picture	jitter	other				728935	1	7166	1	0	50000
+Picture	fixation	other				736101	1	4166	1	0	4000
+Picture	green_right	hit	2	4941	1	740267	1	5000	1	4000	resp
+Picture	jitter	other				756266	1	2167	1	0	50000
+Picture	fixation	other				758432	1	4166	1	0	4000
+Picture	green_left	hit	2	5010	1	762599	1	5166	1	4000	resp
+Picture	jitter	other				778597	1	7166	1	0	50000
+Picture	fixation	other				785763	1	4166	1	0	4000
+Picture	red_right	hit	1	4397	1	789930	1	4500	1	4000	resp
+Picture	jitter	other				805928	1	9166	1	0	50000
+Picture	fixation	other				815094	1	4166	1	0	4000
+Picture	red_left	incorrect	2	6346	1	819260	1	6499	1	4000	resp
+Picture	jitter	other				835259	1	9166	1	0	50000
+Picture	fixation	other				844425	1	4166	1	0	4000
+Picture	red_right	hit	1	4055	1	848591	1	4166	1	4000	resp
+Picture	jitter	other				864590	1	6166	1	0	50000
+Picture	fixation	other				870756	1	4166	1	0	4000
+Picture	green_right	hit	2	5403	1	874922	1	5499	1	4000	resp
+Picture	jitter	other				890921	1	4166	1	0	50000
+Picture	fixation	other				895087	1	4166	1	0	4000
+Picture	red_right	hit	1	5312	1	899253	1	5333	1	4000	resp
+Picture	jitter	other				915252	1	4166	1	0	50000
+Picture	fixation	other				919418	1	4166	1	0	4000
+Picture	green_right	hit	2	5540	1	923584	1	5666	1	4000	resp
+Picture	jitter	other				939583	1	2166	1	0	50000
+Picture	fixation	other				941749	1	4166	1	0	4000
+Picture	green_right	hit	2	5048	1	945916	1	5166	1	4000	resp
+Picture	jitter	other				961914	1	5166	1	0	50000
+Picture	fixation	other				967081	1	4166	1	0	4000
+Picture	green_right	hit	2	4437	1	971247	1	4500	1	4000	resp
+Picture	jitter	other				987245	1	5166	1	0	50000
+Picture	fixation	other				992412	1	4166	1	0	4000
+Picture	green_left	hit	2	5429	1	996578	1	5500	1	4000	resp
+Picture	jitter	other				1012576	1	1167	1	0	50000
+Picture	fixation	other				1013743	1	4166	1	0	4000
+Picture	red_left	hit	1	5132	1	1017909	1	5166	1	4000	resp
+Picture	jitter	other				1033908	1	7166	1	0	50000
+Picture	fixation	other				1041074	1	4166	1	0	4000
+Picture	green_right	hit	2	4601	1	1045240	1	4666	1	4000	resp
+Picture	jitter	other				1061239	1	10166	1	0	50000
+Picture	fixation	other				1071405	1	4166	1	0	4000
+Picture	green_right	hit	2	5070	1	1075571	1	5166	1	4000	resp
+Picture	jitter	other				1091569	1	2166	1	0	50000
+Picture	fixation	other				1093736	1	4166	1	0	4000
+Picture	red_left	hit	1	4578	1	1097902	1	4666	1	4000	resp
+Picture	jitter	other				1113901	1	3166	1	0	50000
+Picture	fixation	other				1117067	1	4166	1	0	4000
+Picture	red_left	hit	1	6206	1	1121234	1	6333	1	4000	resp
+Picture	jitter	other				1137232	1	3166	1	0	50000
+Picture	fixation	other				1140398	1	4166	1	0	4000
+Picture	green_left	hit	2	5115	1	1144565	1	5166	1	4000	resp
+Picture	jitter	other				1160563	1	1167	1	0	50000
+Picture	fixation	other				1161730	1	4166	1	0	4000
+Picture	green_right	hit	2	4662	1	1165896	1	4833	1	4000	resp
+Picture	jitter	other				1181895	1	7166	1	0	50000
+Picture	fixation	other				1189061	1	4166	1	0	4000
+Picture	green_right	hit	2	4611	1	1193227	1	4666	1	4000	resp
+Picture	jitter	other				1209226	1	10166	1	0	50000
+Picture	fixation	other				1219391	1	4166	1	0	4000
+Picture	red_left	hit	1	4360	1	1223558	1	4500	1	4000	resp
+Picture	jitter	other				1239556	1	8166	1	0	50000
+Picture	fixation	other				1247722	1	4166	1	0	4000
+Picture	red_left	hit	1	4748	1	1251889	1	4833	1	4000	resp
+Picture	jitter	other				1267887	1	5166	1	0	50000
+Picture	fixation	other				1273053	1	4166	1	0	4000
+Picture	red_left	hit	1	5016	1	1277220	1	5166	1	4000	resp
+Picture	jitter	other				1293218	1	4166	1	0	50000
+Picture	fixation	other				1297385	1	4166	1	0	4000
+Picture	green_right	hit	2	4444	1	1301551	1	4500	1	4000	resp
+Picture	jitter	other				1317549	1	3166	1	0	50000
+Picture	fixation	other				1320716	1	4166	1	0	4000
+Picture	red_right	hit	1	4872	1	1324882	1	5000	1	4000	resp
+Picture	jitter	other				1340881	1	9166	1	0	50000
+Picture	fixation	other				1350046	1	4166	1	0	4000
+Picture	red_left	hit	1	4021	1	1354213	1	4166	1	4000	resp
+Picture	jitter	other				1370211	1	8166	1	0	50000
+Picture	fixation	other				1378377	1	4166	1	0	4000
+Picture	green_right	hit	2	4329	1	1382544	1	4500	1	4000	resp
+Picture	jitter	other				1398542	1	8166	1	0	50000
+Picture	fixation	other				1406708	1	4166	1	0	4000
+Picture	red_left	hit	1	3998	1	1410874	1	4166	1	4000	resp
+Picture	jitter	other				1426873	1	1167	1	0	50000
+Picture	fixation	other				1428040	1	4166	1	0	4000
+Picture	green_right	hit	2	4506	1	1432206	1	4666	1	4000	resp
+Picture	jitter	other				1448204	1	6166	1	0	50000
+Picture	fixation	other				1454371	1	4166	1	0	4000
+Picture	red_left	hit	1	4335	1	1458537	1	4500	1	4000	resp
+Picture	jitter	other				1474535	1	7166	1	0	50000
+Picture	fixation	other				1481702	1	4166	1	0	4000
+Picture	green_left	hit	2	5323	1	1485868	1	5500	1	4000	resp
+Picture	jitter	other				1501866	1	10166	1	0	50000
+Picture	fixation	other				1512032	1	4166	1	0	4000
+Picture	red_left	hit	1	4192	1	1516198	1	4333	1	4000	resp
+Picture	jitter	other				1532197	1	2166	3	0	50000
+Picture	fixation	other				1534363	3	4167	3	0	4000
+Picture	red_left	hit	1	4500	1	1538530	1	4666	1	4000	resp
+Picture	jitter	other				1554528	1	6166	1	0	50000
+Picture	fixation	other				1560694	1	4166	1	0	4000
+Picture	green_right	hit	2	4168	1	1564861	1	4333	1	4000	resp
+Picture	jitter	other				1580859	1	9166	1	0	50000
+Picture	fixation	other				1590025	1	4166	1	0	4000
+Picture	green_left	hit	2	5477	1	1594192	1	5499	1	4000	resp
+Picture	jitter	other				1610190	1	8166	1	0	50000
+Picture	fixation	other				1618356	1	4166	1	0	4000
+Picture	green_right	hit	2	5065	1	1622522	1	5166	1	4000	resp
+Picture	jitter	other				1638521	1	5166	1	0	50000
+Picture	fixation	other				1643687	1	4166	1	0	4000
+Picture	green_left	hit	2	5335	1	1647853	1	5500	1	4000	resp
+Picture	jitter	other				1663852	1	1167	1	0	50000
+Picture	fixation	other				1665019	1	4166	1	0	4000
+Picture	green_left	hit	2	5282	1	1669185	1	5333	1	4000	resp
+Picture	jitter	other				1685183	1	9166	1	0	50000
+Picture	fixation	other				1694349	1	4166	1	0	4000
+Picture	red_left	hit	1	4432	1	1698516	1	4500	1	4000	resp
+Picture	jitter	other				1714514	1	5166	1	0	50000
+Picture	fixation	other				1719680	1	4166	1	0	4000
+Picture	red_right	hit	1	5259	1	1723847	1	5333	1	4000	resp
+Picture	jitter	other				1739845	1	6166	1	0	50000
+Picture	fixation	other				1746011	1	4166	1	0	4000
+Picture	red_right	hit	1	4768	1	1750178	1	4833	1	4000	resp
+Picture	jitter	other				1766176	1	10166	1	0	50000
+Picture	fixation	other				1776342	1	4166	1	0	4000
+Picture	red_right	hit	1	4916	1	1780508	1	5000	1	4000	resp
+Picture	jitter	other				1796507	1	6166	1	0	50000
+Picture	fixation	other				1802673	1	4166	1	0	4000
+Picture	red_right	hit	1	5144	1	1806839	1	5166	1	4000	resp
+Picture	jitter	other				1822838	1	4166	1	0	50000
+Picture	fixation	other				1827004	1	4166	1	0	4000
+Picture	green_left	hit	2	4575	1	1831170	1	4666	1	4000	resp
+Picture	jitter	other				1847169	1	3166	1	0	50000
+Picture	fixation	other				1850335	1	4166	1	0	4000
+Picture	green_left	hit	2	6761	1	1854502	1	6833	1	4000	resp
+Picture	jitter	other				1870500	1	4166	1	0	50000
+Picture	fixation	other				1874667	1	4166	1	0	4000
+Picture	red_left	hit	1	3869	1	1878833	1	4000	1	4000	resp
+Picture	jitter	other				1894831	1	10166	1	0	50000
+Picture	fixation	other				1904997	1	4166	1	0	4000
+Picture	green_left	hit	2	4818	1	1909164	1	4818	183	4000	resp
+Picture	jitter	other				1925162	1	2166	1	0	50000
+Picture	fixation	other				1927328	1	4166	1	0	4000
+Picture	green_left	hit	2	6485	1	1931495	1	6486	181	4000	resp
+Picture	jitter	other				1947493	1	6166	1	0	50000
+Picture	fixation	other				1953659	1	4166	1	0	4000
+Picture	red_right	hit	1	3914	1	1957826	1	4000	1	4000	resp
+Picture	jitter	other				1973824	1	4166	1	0	50000
+Picture	fixation	other				1977991	1	4166	1	0	4000
+Picture	red_left	hit	1	3982	1	1982157	1	4000	1	4000	resp
+Picture	jitter	other				1998156	1	5166	1	0	50000
+Picture	fixation	other				2003322	1	4166	1	0	4000
+Picture	green_left	hit	2	5451	1	2007488	1	5500	1	4000	resp
+Picture	jitter	other				2023487	1	1167	1	0	50000
+Picture	fixation	other				2024653	1	4166	1	0	4000
+Picture	red_right	hit	1	5080	1	2028820	1	5166	1	4000	resp
+Picture	jitter	other				2044818	1	2167	1	0	50000
+Picture	fixation	other				2046985	1	4166	1	0	4000
+Picture	red_right	hit	1	4747	1	2051151	1	4833	1	4000	resp
+Picture	jitter	other				2067150	1	7166	1	0	50000
+Picture	fixation	other				2074316	1	4166	1	0	4000
+Picture	green_left	hit	2	4135	1	2078482	1	4166	1	4000	resp
+Picture	jitter	other				2094480	1	9166	1	0	50000
+Picture	fixation	other				2103646	1	4166	1	0	4000
+Picture	green_left	hit	2	5524	1	2107813	1	5666	1	4000	resp
+Picture	jitter	other				2123811	1	2166	1	0	50000
+Picture	fixation	other				2125978	1	4166	1	0	4000
+Picture	green_left	hit	2	5192	1	2130144	1	5333	1	4000	resp
+Picture	jitter	other				2146142	1	1167	1	0	50000
+Picture	fixation	other				2147309	1	4166	1	0	4000
+Picture	green_right	hit	2	4821	1	2151475	1	4821	180	4000	resp
+Picture	jitter	other				2167474	1	10166	1	0	50000
+Picture	fixation	other				2177640	1	4166	1	0	4000
+Picture	red_right	hit	1	3769	1	2181806	1	3833	1	4000	resp
+Picture	jitter	other				2197805	1	8166	1	0	50000
+Picture	fixation	other				2205970	1	4166	1	0	4000
+Picture	red_right	incorrect	2	3837	1	2210137	1	4000	1	4000	resp
+Picture	jitter	other				2226135	1	3166	1	0	50000
+Picture	fixation	other				2229302	1	4166	1	0	4000
+Picture	red_right	hit	1	4587	1	2233468	1	4666	1	4000	resp
+Picture	jitter	other				2249467	1	3166	1	0	50000
+Picture	fixation	other				2252633	1	4166	1	0	4000
+Picture	green_left	hit	2	3735	1	2256799	1	3833	1	4000	resp
+Picture	jitter	other				2272798	1	7166	1	0	50000
+Picture	fixation	other				2279964	1	4166	1	0	4000
+Picture	green_right	hit	2	3922	1	2284130	1	4000	1	4000	resp
+Picture	jitter	other				2300129	1	8166	1	0	50000
+Picture	fixation	other				2308295	1	4166	1	0	4000
+Picture	red_right	hit	1	4230	1	2312461	1	4333	1	4000	resp
+Picture	jitter	other				2328460	1	9166	1	0	50000
+Picture	fixation	other				2337625	1	4166	1	0	4000
+Picture	red_right	hit	1	6499	1	2341792	1	6666	1	4000	resp
+Picture	jitter	other				2357790	1	7166	1	0	50000
+Picture	fixation	other				2364956	1	4166	1	0	4000
+Picture	green_right	hit	2	4528	1	2369123	1	4666	1	4000	resp
+Picture	jitter	other				2385121	1	6166	1	0	50000
+Picture	fixation	other				2391287	1	4166	1	0	4000
+Picture	green_right	hit	2	4677	1	2395454	1	4833	1	4000	resp
+Picture	jitter	other				2411452	1	2166	1	0	50000
+Picture	fixation	other				2413619	1	4166	1	0	4000
+Picture	red_left	hit	1	4744	1	2417785	1	4833	1	4000	resp
+Picture	jitter	other				2433783	1	5166	1	0	50000
+Picture	fixation	other				2438950	1	4166	1	0	4000
+Picture	red_right	hit	1	5173	1	2443116	1	5333	1	4000	resp
+Picture	jitter	other				2459115	1	10166	1	0	50000
+Picture	fixation	other				2469280	1	4166	1	0	4000
+Picture	red_left	hit	1	4442	1	2473447	1	4500	1	4000	resp
+Picture	jitter	other				2489445	1	7166	1	0	50000
+Picture	fixation	other				2496611	1	4166	1	0	4000
+Picture	red_left	hit	1	4230	1	2500778	1	4333	1	4000	resp
+Picture	jitter	other				2516776	1	5166	1	0	50000
+Picture	fixation	other				2521942	1	4166	1	0	4000
+Picture	red_left	hit	1	4418	1	2526109	1	4500	1	4000	resp
+Picture	jitter	other				2542107	1	5166	1	0	50000
+Picture	fixation	other				2547273	1	4166	1	0	4000
+Picture	red_left	hit	1	3887	1	2551440	1	4000	1	4000	resp
+Picture	jitter	other				2567438	1	6166	1	0	50000
+Picture	fixation	other				2573604	1	4166	1	0	4000
+Picture	green_right	hit	2	4835	1	2577771	1	5000	1	4000	resp
+Picture	jitter	other				2593769	1	1167	1	0	50000
+Picture	fixation	other				2594936	1	4166	1	0	4000
+Picture	green_right	hit	2	4623	1	2599102	1	4666	1	4000	resp
+Picture	jitter	other				2615101	1	1167	1	0	50000
+Picture	fixation	other				2616267	1	4166	1	0	4000
+Picture	red_left	hit	1	4731	1	2620434	1	4833	1	4000	resp
+Picture	jitter	other				2636432	1	7166	1	0	50000
+Picture	fixation	other				2643598	1	4166	1	0	4000
+Picture	red_right	hit	1	5079	1	2647765	1	5166	1	4000	resp
+Picture	jitter	other				2663763	1	2166	1	0	50000
+Picture	fixation	other				2665930	1	4166	1	0	4000
+Picture	green_right	hit	2	5787	1	2670096	1	5833	1	4000	resp
+Picture	jitter	other				2686095	1	3166	1	0	50000
+Picture	fixation	other				2689261	1	4166	1	0	4000
+Picture	green_left	hit	2	5735	1	2693427	1	5833	1	4000	resp
+Picture	jitter	other				2709426	1	6166	1	0	50000
+Picture	fixation	other				2715592	1	4166	1	0	4000
+Picture	green_right	hit	2	5325	1	2719758	1	5500	1	4000	resp
+Picture	jitter	other				2735757	1	4166	1	0	50000
+Picture	fixation	other				2739923	1	4166	1	0	4000
+Picture	green_right	hit	2	4832	1	2744089	1	5000	1	4000	resp
+Picture	jitter	other				2760088	1	9166	1	0	50000
+Picture	fixation	other				2769254	1	4166	1	0	4000
+Picture	green_right	hit	2	4383	1	2773420	1	4500	1	4000	resp
+Picture	jitter	other				2789419	1	7166	1	0	50000
+Picture	fixation	other				2796585	1	4166	1	0	4000
+Picture	red_left	hit	1	4009	1	2800751	1	4166	1	4000	resp
+Picture	jitter	other				2816748	2	8167	3	0	50000
+Picture	fixation	other				2824915	1	4166	1	0	4000
+Picture	green_right	hit	2	5598	1	2829082	1	5666	1	4000	resp
+Picture	jitter	other				2845080	1	10166	1	0	50000
+Picture	fixation	other				2855246	1	4166	1	0	4000
+Picture	red_left	hit	1	4307	1	2859412	1	4333	1	4000	resp
+Picture	jitter	other				2875411	1	1167	1	0	50000
+Picture	fixation	other				2876577	1	4166	1	0	4000
+Picture	red_left	hit	1	4575	1	2880744	1	4666	1	4000	resp
+Picture	jitter	other				2896742	1	9166	1	0	50000
+Picture	fixation	other				2905908	1	4166	1	0	4000
+Picture	green_right	hit	2	4443	1	2910075	1	4500	1	4000	resp
+Picture	jitter	other				2926073	1	4166	1	0	50000
+Picture	fixation	other				2930239	1	4166	1	0	4000
+Picture	green_right	hit	2	4751	1	2934406	1	4833	1	4000	resp
+Picture	jitter	other				2950404	1	8166	1	0	50000
+Picture	fixation	other				2958570	1	4166	1	0	4000
+Picture	green_left	hit	2	5460	1	2962737	1	5499	1	4000	resp
+Picture	jitter	other				2978735	1	2167	1	0	50000
+Picture	fixation	other				2980902	1	4166	1	0	4000
+Picture	red_left	hit	1	4328	1	2985068	1	4500	1	4000	resp
+Picture	jitter	other				3001065	3	3168	3	0	50000
+Picture	fixation	other				3004233	1	4166	1	0	4000
+Picture	green_right	hit	2	4358	1	3008399	1	4500	1	4000	resp
+Picture	jitter	other				3024398	1	10166	1	0	50000
+Picture	fixation	other				3034564	1	4166	1	0	4000
+Picture	red_left	hit	1	3624	1	3038730	1	3666	1	4000	resp
+Picture	jitter	other				3054728	1	8166	1	0	50000
+Picture	fixation	other				3062894	1	4166	1	0	4000
+Picture	red_left	hit	1	4094	1	3067061	1	4166	1	4000	resp
+Picture	jitter	other				3083059	1	4166	1	0	50000
+Picture	fixation	other				3087225	1	4166	1	0	4000
+Picture	green_left	hit	2	5042	1	3091392	1	5166	1	4000	resp
+Picture	jitter	other				3107390	1	3166	1	0	50000
+Picture	fixation	other				3110557	1	4166	1	0	4000
+Picture	red_right	hit	1	4270	1	3114723	1	4333	1	4000	resp
+Picture	jitter	other				3130722	1	9166	1	0	50000
+Picture	fixation	other				3139887	1	4166	1	0	4000
+Picture	red_left	hit	1	4539	1	3144054	1	4666	1	4000	resp
+Picture	jitter	other				3160052	1	10166	1	0	50000
+Picture	fixation	other				3170218	1	4166	1	0	4000
+Picture	green_right	hit	2	4207	1	3174384	1	4333	1	4000	resp
+Picture	jitter	other				3190383	1	3166	1	0	50000
+Picture	fixation	other				3193549	1	4166	1	0	4000
+Picture	red_right	hit	1	5035	1	3197716	1	5166	1	4000	resp
+Picture	jitter	other				3213714	1	7166	1	0	50000
+Picture	fixation	other				3220880	1	4166	1	0	4000
+Picture	red_right	hit	1	4024	1	3225047	1	4166	1	4000	resp
+Picture	jitter	other				3241045	1	7166	1	0	50000
+Picture	fixation	other				3248211	1	4166	1	0	4000
+Picture	red_right	hit	1	3733	1	3252377	1	3833	1	4000	resp
+Picture	jitter	other				3268376	1	3166	1	0	50000
+Picture	fixation	other				3271542	1	4166	1	0	4000
+Picture	green_left	hit	2	4561	1	3275709	1	4666	1	4000	resp
+Picture	jitter	other				3291707	2	10167	3	0	50000
+Picture	fixation	other				3301873	1	4166	1	0	4000
+Picture	red_right	hit	1	5749	1	3306039	1	5833	1	4000	resp
+Picture	jitter	other				3322038	1	4166	1	0	50000
+Picture	fixation	other				3326204	1	4166	1	0	4000
+Picture	red_right	hit	1	5337	1	3330371	1	5500	1	4000	resp
+Picture	jitter	other				3346369	1	4166	1	0	50000
+Picture	fixation	other				3350535	1	4166	1	0	4000
+Picture	green_left	hit	2	4285	1	3354702	1	4333	1	4000	resp
+Picture	jitter	other				3370700	1	6166	1	0	50000
+Picture	fixation	other				3376866	1	4166	1	0	4000
+Picture	red_left	hit	1	6354	1	3381033	1	6499	1	4000	resp
+Picture	jitter	other				3397031	1	2166	1	0	50000
+Picture	fixation	other				3399198	1	4166	1	0	4000
+Picture	red_right	hit	1	4822	1	3403364	1	4822	178	4000	resp
+Picture	jitter	other				3419363	1	6166	1	0	50000
+Picture	fixation	other				3425529	1	4166	1	0	4000
+Picture	red_right	hit	1	4251	1	3429695	1	4333	1	4000	resp
+Picture	jitter	other				3445694	1	6166	1	0	50000
+Picture	fixation	other				3451860	1	4166	1	0	4000
+Picture	green_left	hit	2	4641	1	3456026	1	4666	1	4000	resp
+Picture	jitter	other				3472025	1	2166	1	0	50000
+Picture	fixation	other				3474191	1	4166	1	0	4000
+Picture	green_left	hit	2	5107	1	3478357	1	5166	1	4000	resp
+Picture	jitter	other				3494356	1	1166	1	0	50000
+Picture	fixation	other				3495522	1	4166	1	0	4000
+Picture	red_right	hit	1	5136	1	3499689	1	5166	1	4000	resp
+Picture	jitter	other				3515687	1	8166	1	0	50000
+Picture	fixation	other				3523853	1	4166	1	0	4000
+Picture	green_left	hit	2	4883	1	3528020	1	5000	1	4000	resp
+Picture	jitter	other				3544018	1	1167	1	0	50000
+Picture	fixation	other				3545185	1	4166	1	0	4000
+Picture	green_right	hit	2	5632	1	3549351	1	5666	1	4000	resp
+Picture	jitter	other				3565350	1	10166	1	0	50000
+Picture	fixation	other				3575515	1	4166	1	0	4000
+Picture	green_left	hit	2	4980	1	3579682	1	5000	1	4000	resp
+Picture	jitter	other				3595680	1	3166	1	0	50000
+Picture	fixation	other				3598847	1	4166	1	0	4000
+Picture	green_left	hit	2	4210	1	3603013	1	4333	1	4000	resp
+Picture	jitter	other				3619012	1	9166	1	0	50000
+Picture	fixation	other				3628177	1	4166	1	0	4000
+Picture	green_left	hit	2	4397	1	3632344	1	4500	1	4000	resp
+Picture	jitter	other				3648342	1	4166	1	0	50000
+Picture	fixation	other				3652509	1	4166	1	0	4000
+Picture	red_right	hit	1	4065	1	3656675	1	4166	1	4000	resp
+Picture	jitter	other				3672673	1	1167	1	0	50000
+Picture	fixation	other				3673840	1	4166	1	0	4000
+Picture	green_left	hit	2	4413	1	3678006	1	4500	1	4000	resp
+Picture	jitter	other				3694005	1	2167	1	0	50000
+Picture	fixation	other				3696171	1	4166	1	0	4000
+Picture	red_right	hit	1	4002	1	3700338	1	4166	1	4000	resp
+Picture	jitter	other				3716336	1	5166	1	0	50000
+Picture	fixation	other				3721502	1	4166	1	0	4000
+Picture	green_left	hit	2	5230	1	3725669	1	5333	1	4000	resp
+Picture	jitter	other				3741667	1	7166	1	0	50000
+Picture	fixation	other				3748833	1	4166	1	0	4000
+Picture	green_right	hit	2	4620	1	3753000	1	4666	1	4000	resp
+Picture	jitter	other				3768998	1	9166	1	0	50000
+Picture	fixation	other				3778164	1	4166	1	0	4000
+Picture	green_left	hit	2	3687	1	3782330	1	3833	1	4000	resp
+Picture	jitter	other				3798329	1	9166	1	0	50000
+Picture	fixation	other				3807495	1	4166	1	0	4000
+Picture	green_left	hit	2	5077	1	3811661	1	5166	1	4000	resp
+Picture	jitter	other				3827660	1	8166	1	0	50000
+Picture	fixation	other				3835826	1	4166	1	0	4000
+Picture	red_left	hit	1	4024	1	3839992	1	4166	1	4000	resp
+Picture	jitter	other				3855991	1	5166	1	0	50000
+Picture	fixation	other				3861157	1	4166	1	0	4000
+Picture	red_right	hit	1	5093	1	3865323	1	5166	1	4000	resp
+Picture	jitter	other				3881322	1	5166	1	0	50000
+Picture	fixation	other				3886488	1	4166	1	0	4000
+Picture	red_right	hit	1	4081	1	3890654	1	4166	1	4000	resp
+Picture	jitter	other				3906653	1	8166	1	0	50000
+Picture	break_message	other				3914819	1	303766	1	0	next
